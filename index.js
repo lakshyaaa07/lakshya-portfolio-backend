@@ -19,7 +19,7 @@ const portfolioData = {
         "contactEmail": "jainlakshya07@gmail.com",
         "avatar": {
           "public_id": "portfolio3/1713995155677-122l5x.webp",
-          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1713995155677-122l5x.webp"
+          "url": "https://ibb.co/bmYP9Kq"
         },
         "alternateAvatars": [
           {
