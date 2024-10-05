@@ -18,13 +18,13 @@ const portfolioData = {
         "phoneNumber": "+91-9510114283",
         "contactEmail": "jainlakshya07@gmail.com",
         "avatar": {
-          "public_id": "portfolio3/1713995155677-122l5x.webp",
-          "url": "https://ibb.co/bmYP9Kq"
+          "public_id": "nm4bJLZ/lakshya.jpg",
+          "url": "https://i.ibb.co/nm4bJLZ/lakshya.jpg"
         },
         "alternateAvatars": [
           {
-            "public_id": "portfolio3/1713996156944-1hro1b.webp",
-            "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1713996156944-1hro1b.webp"
+            "public_id": "nm4bJLZ/lakshya.jpg",
+            "url": "https://i.ibb.co/nm4bJLZ/lakshya.jpg"
           }
         ]
       },
