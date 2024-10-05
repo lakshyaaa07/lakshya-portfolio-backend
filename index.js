@@ -2,7 +2,6 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
 
-// Dummy data to mimic your portfolio structure
 const portfolioData = {
     "success": true,
     "user": {
@@ -18,8 +17,8 @@ const portfolioData = {
         "phoneNumber": "+91-9510114283",
         "contactEmail": "jainlakshya07@gmail.com",
         "avatar": {
-          "public_id": "nm4bJLZ/lakshya.jpg",
-          "url": "https://i.ibb.co/nm4bJLZ/lakshya.jpg"
+          "public_id": "files/qydTS1728108327.jpg",
+          "url": "https://i.imghippo.com/files/qydTS1728108327.jpg"
         },
         "alternateAvatars": [
           {
@@ -34,7 +33,7 @@ const portfolioData = {
       "role": "admin",
       "timeline": [
         {
-          "company_name": "StartupX",
+          "company_name": "Nexus Info",
           "summary": "Contributed to the development of a new social networking platform targeting niche communities.",
           "sequence": 6,
           "startDate": "2023-11-13T00:00:00.000Z",
