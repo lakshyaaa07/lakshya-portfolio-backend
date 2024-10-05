@@ -9,7 +9,7 @@ const portfolioData = {
         "name": "Lakshya Jain",
         "title": "Full Stack Developer",
         "subTitle": "I develop real-world problem web apps, user interfaces and ML models",
-        "description": "As a React developer with 1.5 years of experience, I have honed my skills in JavaScript and am currently learning TypeScript to expand my expertise. I pride myself on being a quick learner and attentive listener, which allows me to collaborate effectively with clients to create efficient and scalable solutions. My focus is on developing user-friendly applications that solve real-world problems.",
+        "description": "As a React developer with 1.5 years of experience, I have honed my skills in MERN, Django, Machine Learning, Python and their popular data cleaning libraries and am currently learning TypeScript to expand my expertise. I pride myself on being a quick learner and attentive listener, which allows me to collaborate effectively with clients to create efficient and scalable solutions. My focus is on developing user-friendly applications that solve real-world problems.",
         "quote": "Live the Life as you want",
         "exp_year": "3",
         "address": "Ahmedabad , India",
@@ -36,12 +36,12 @@ const portfolioData = {
           "company_name": "Nexus Info",
           "summary": "Contributed to the development of a new social networking platform targeting niche communities.",
           "sequence": 6,
-          "startDate": "2023-11-13T00:00:00.000Z",
-          "endDate": "2024-03-13T00:00:00.000Z",
-          "jobTitle": "Backend Developer",
-          "jobLocation": " Los Angeles, CA",
+          "startDate": "2024-02-13T00:00:00.000Z",
+          "endDate": "2024-04-13T00:00:00.000Z",
+          "jobTitle": "Full-Stack Developer",
+          "jobLocation": "Remote",
           "bulletPoints": [
-            "Developed scalable backend services using Python and Django framework.",
+                "Contributed to develop better UI of their website.",
             "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
             "\nDesigned and optimized database schemas for performance and scalability.",
             "\nImplemented real-time messaging features using WebSockets and Redis.",
@@ -157,7 +157,7 @@ const portfolioData = {
       "skills": [
         {
           "enabled": true,
-          "name": "C++",
+          "name": "MERN",
           "sequence": 17,
           "percentage": 87,
           "image": {
@@ -193,7 +193,7 @@ const portfolioData = {
         },
         {
           "enabled": true,
-          "name": "Figma",
+          "name": "Django",
           "sequence": 15,
           "percentage": 95,
           "image": {
@@ -205,9 +205,9 @@ const portfolioData = {
         },
         {
           "enabled": true,
-          "name": "TypeScript",
+          "name": "Java",
           "sequence": 6,
-          "percentage": 90,
+          "percentage": 70,
           "image": {
             "public_id": "1706287104739-pm8en",
             "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287104739-pm8en",
